@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "342f037d8f605ea91085a66cf2474b8e",
+    "content-hash": "91891a589f35384d4925629283681e80",
     "packages": [],
     "packages-dev": [
         {
@@ -2100,16 +2100,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "0.12.59",
+            "version": "0.12.67",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "cf4107257c8ca2ad967efdd6a00f12b21acbb779"
+                "reference": "ced7a5d9c5dba908c1c00cea3f1d4ad74da71b86"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/cf4107257c8ca2ad967efdd6a00f12b21acbb779",
-                "reference": "cf4107257c8ca2ad967efdd6a00f12b21acbb779",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/ced7a5d9c5dba908c1c00cea3f1d4ad74da71b86",
+                "reference": "ced7a5d9c5dba908c1c00cea3f1d4ad74da71b86",
                 "shasum": ""
             },
             "require": {
@@ -2152,7 +2152,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-12-07T14:46:03+00:00"
+            "time": "2021-01-14T14:16:19+00:00"
         },
         {
             "name": "phpstan/phpstan-strict-rules",
@@ -4407,12 +4407,12 @@
             "version": "4.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/glob.git",
+                "url": "https://github.com/webmozarts/glob.git",
                 "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/glob/zipball/3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
+                "url": "https://api.github.com/repos/webmozarts/glob/zipball/3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
                 "reference": "3cbf63d4973cf9d780b93d2da8eec7e4a9e63bbe",
                 "shasum": ""
             },
